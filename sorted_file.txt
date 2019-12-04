@@ -1,0 +1,9 @@
+1
+32r
+aaa
+ano
+bono
+echoing a string to a file
+gno
+tya
+xno
